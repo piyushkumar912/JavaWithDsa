@@ -9,7 +9,8 @@ public class string {
          int n = s.length();
          System.out.println(n);
 
-        //MORGAN STYNLEY
+        //MORGAN STYNLEY//SWAPPING
+        
         String sc= "Morgan Stynley";
         int nx =sc.length();
         String ans = sc.substring(1,nx-1);
