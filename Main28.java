@@ -14,6 +14,7 @@ class Main28 {
 //         System.out.println(gcd);
 //     }
 // }
+
        
        
 //       int n=5;
