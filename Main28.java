@@ -1,6 +1,8 @@
 import java.util.*;
 class Main28 {
+
     public static void main(String[] args) {
+        System.out.println("aakar bambe bakkar bol 80 90 pure 1100");
 //         int a=5;
 //         int b=15;
 //         int min=Math.min(a,b);
