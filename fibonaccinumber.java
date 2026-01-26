@@ -13,7 +13,7 @@ public class fibonaccinumber {
             sum=a+b;
             a=b;
             b=sum;
-        };
+        }
         System.out.println(sum);
     }
 }
