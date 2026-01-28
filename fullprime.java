@@ -2,6 +2,7 @@ import java.util.*;
 public class fullprime {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
+        // to start java compkete series 
         int n = sc.nextInt();  //235
         boolean check = true;
           while(n>0){
