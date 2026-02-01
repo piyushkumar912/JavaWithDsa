@@ -1,6 +1,6 @@
 //(Q).Sum of all integers
-    // only even number use-->( int i = 2; i<=n ; i=i+2)
-   // only odd number use -->(int i = 1; i<=n; i=i+2)
+    // only even number use--> ( int i = 2; i<=n ; i=i+2)
+   // only odd number use --> (int i = 1; i<=n; i=i+2)
 
 
 import java.util.*;
