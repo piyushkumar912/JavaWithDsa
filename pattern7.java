@@ -1,9 +1,5 @@
 //(Q)--> Pattern 90 degree triangle
 
-
-
-
-
 import java.util.*;
 public class pattern7 {
     public static void main(String[]args){
