@@ -13,7 +13,6 @@ public class pattern8 {
                 System.out.print("*");
             }
             System.out.println();
-            System.out.println("Hello world ");
 
         }
     }
