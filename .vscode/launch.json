@@ -3,6 +3,34 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "oop2",
+            "request": "launch",
+            "mainClass": "oop2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "oop1",
+            "request": "launch",
+            "mainClass": "oop1",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "abstraction1",
+            "request": "launch",
+            "mainClass": "abstraction1",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "ConditionalPractice",
             "request": "launch",
             "mainClass": "ConditionalPractice",
