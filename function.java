@@ -10,6 +10,7 @@ public class function {
      printTriangle(n);
      printSingleButterflyWing(n);
      printButterfly(n);
+    // printDiamond(n);
     }
     public static void printSquarePattern(int n){
         for(int i =1;i<=n;i++){
@@ -120,4 +121,4 @@ public class function {
         System.out.println();
       }
     }
-}
+    }

@@ -1,0 +1,26 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+        {
+            "type": "java",
+            "name": "ConditionalPractice",
+            "request": "launch",
+            "mainClass": "ConditionalPractice",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "name": "Launch current file",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

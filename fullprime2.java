@@ -19,6 +19,7 @@ public class fullprime2 {
               System.out.println(true);
             int temp = n;   // 🔥 FIX: copy of n
 
+            boolean check;
             while (temp != 0) {
                 int rem = temp % 10;
 
@@ -30,11 +31,11 @@ public class fullprime2 {
                 temp = temp / 10;
             }
 
-            if (check) {
-                System.out.println(true);
-            } else {
-                System.out.println(false);
-            }
+            // if (check) {
+            //     System.out.println(true);
+            // } else {
+            //     System.out.println(false);
+            // }
 
         } else {
             System.out.println(false);
