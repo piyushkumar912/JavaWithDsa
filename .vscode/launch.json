@@ -1,6 +1,21 @@
 {
 	"version": "0.2.0",
 	"configurations": [
+        
+        {
+            "type": "java",
+            "name": "fibonaccinumber",
+            "request": "launch",
+            "mainClass": "fibonaccinumber",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "uglynumber",
+            "request": "launch",
+            "mainClass": "uglynumber",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
         {
             "type": "java",
             "name": "oop2",
