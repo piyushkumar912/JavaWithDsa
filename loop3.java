@@ -13,7 +13,7 @@ public class loop3{
           //Odd
         for(int i =1; i<=n; i=i+2){
             System.out.println(i);
-            System.out.println("------------------");
+            System.out.println("");
         }
         }
         }
