@@ -1,3 +1,1 @@
-ntMyname (name);  // function ko call kiya
-    }
-}
+5,8,7,2,1
