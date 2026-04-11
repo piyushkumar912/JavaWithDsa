@@ -7,7 +7,6 @@ class Student{
     String name;
     int age;
 }
-git 
 public class oops {
     public static void main(String[] args) {
         Student s1 = new Student();

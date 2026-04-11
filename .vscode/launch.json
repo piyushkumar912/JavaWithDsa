@@ -1,7 +1,41 @@
 {
 	"version": "0.2.0",
 	"configurations": [
-        
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "function2",
+            "request": "launch",
+            "mainClass": "function2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "function1",
+            "request": "launch",
+            "mainClass": "function1",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "Main28",
+            "request": "launch",
+            "mainClass": "Main28",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
         {
             "type": "java",
             "name": "fibonaccinumber",
