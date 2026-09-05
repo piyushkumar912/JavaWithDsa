@@ -3,6 +3,20 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "DSA_REVISION.Loop.While",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "function",
             "request": "launch",
             "mainClass": "function",
