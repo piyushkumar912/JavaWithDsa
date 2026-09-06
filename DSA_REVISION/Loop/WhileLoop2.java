@@ -1,6 +1,6 @@
 //Print Number from 1 to n;
 import java.util.*;
-public class While2 {
+public class WhileLoop2 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

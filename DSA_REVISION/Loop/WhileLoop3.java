@@ -1,7 +1,7 @@
 //Print sum of first n natural njumbers;
 
 import java.util.*;
-public class Loop3 {
+public class WhileLoop3 {
     public static void main(String args[]){
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();
