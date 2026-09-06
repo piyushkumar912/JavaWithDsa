@@ -1,4 +1,4 @@
-// Print Hello World 100th Times..
+//  Print Hello World 100th Times..
 import java.util.*;
 public class While {
     public static void main(String[] args) {
