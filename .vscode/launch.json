@@ -3,6 +3,27 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "Loop3",
+            "request": "launch",
+            "mainClass": "Loop3",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "While2",
+            "request": "launch",
+            "mainClass": "While2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "While1",
+            "request": "launch",
+            "mainClass": "While1",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "While",
             "request": "launch",
             "mainClass": "While",
