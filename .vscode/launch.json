@@ -3,6 +3,13 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "ReverseOfNumber",
+            "request": "launch",
+            "mainClass": "ReverseOfNumber",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "SquarePattern",
             "request": "launch",
             "mainClass": "SquarePattern",
