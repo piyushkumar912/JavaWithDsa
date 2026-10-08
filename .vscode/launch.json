@@ -3,6 +3,76 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "CheckNumberPrimeOrNot",
+            "request": "launch",
+            "mainClass": "CheckNumberPrimeOrNot",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatements2",
+            "request": "launch",
+            "mainClass": "ContinueStatements2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "ContinueStatements",
+            "request": "launch",
+            "mainClass": "ContinueStatements",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatements2",
+            "request": "launch",
+            "mainClass": "BreakStatements2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "BreakStatements",
+            "request": "launch",
+            "mainClass": "BreakStatements",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "dowhileLoop",
+            "request": "launch",
+            "mainClass": "dowhileLoop",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfNumber2",
+            "request": "launch",
+            "mainClass": "ReverseOfNumber2",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTaxCalculator",
+            "request": "launch",
+            "mainClass": "IncomeTaxCalculator",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStatements",
+            "request": "launch",
+            "mainClass": "SwitchStatements",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperators",
+            "request": "launch",
+            "mainClass": "TernaryOperators",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "ReverseOfNumber",
             "request": "launch",
             "mainClass": "ReverseOfNumber",
