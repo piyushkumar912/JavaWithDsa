@@ -3,6 +3,13 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "InvertedStarPattern",
+            "request": "launch",
+            "mainClass": "InvertedStarPattern",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "CheckNumberPrimeOrNot",
             "request": "launch",
             "mainClass": "CheckNumberPrimeOrNot",
