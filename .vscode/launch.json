@@ -3,6 +3,34 @@
 	"configurations": [
         {
             "type": "java",
+            "name": "SyntaxWithParameters",
+            "request": "launch",
+            "mainClass": "SyntaxWithParameters",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "SyntaxCodeFunctions",
+            "request": "launch",
+            "mainClass": "SyntaxCodeFunctions",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "CharacterPattern",
+            "request": "launch",
+            "mainClass": "CharacterPattern",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "JavaWithDsa_4ec6a0d7"
+        },
+        {
+            "type": "java",
             "name": "InvertedStarPattern",
             "request": "launch",
             "mainClass": "InvertedStarPattern",
